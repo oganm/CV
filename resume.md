@@ -7,6 +7,17 @@ Vancouver, BC				[github.com/oganm](https://github.com/oganm)
 Canada					Tel: +1 778 995 1591
 -------------------		----------------------------
 
+Skills
+---------
+**Programming languages:** R, Python, Matlab.
+
+**Computing Environment:** Linux, Windows.
+
+**Bioinformatics:** Experience with expression and sequencing datasets.
+
+**Laboratory techniques:** Common techniques and cell culture.
+
+**Languages:** Turkish (Mother Tongue), English (Fluent), French (Basic).
 
 Education
 ---------
@@ -31,12 +42,12 @@ Research Experience
 
 
 2013
-:   **Rotation at BC Children's Hospital** - Supervisor: Dr. Wyeth Wasserman**
+:   **Rotation at BC Children's Hospital** - Supervisor: Dr. Wyeth Wasserman
 
     * Analysis of CAGE data for detection of microRNA transcription start sites
 
 2013
-:   **Rotation at Simon Fraser University** - Supervisor: Dr. Fiona Brinkman** 
+:   **Rotation at Simon Fraser University** - Supervisor: Dr. Fiona Brinkman
 
     * Analysis of antisense transcription in genomic islands
 
@@ -68,62 +79,19 @@ Awards and Scholarships
 
 Publications
 ------------
-
+<!--zotero cell format -->
 Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
 
 Onder, T.T., Kara, N., Cherry, A., Sinha, A.U., Zhu, N., Bernt, K.M., Cahan, P., **Mancarci, B.O.**, Unternaehrer, J., Gupta, P.B., et al. (2012). Chromatin-modifying enzymes as modulators of reprogramming. Nature 483, 598–602.
 
 
+Presentations
+--------------------
+**Organization of Computational Neurosciences Conference 2015:** Tripathy, S.J., Tebaykin, D., Li, B., **Mancarci, O.**, Toker, L., and Pavlidis, P. (2015). Large-scale analysis of brain-wide electrophysiological diversity reveals novel characterization of mammalian neuron types. BMC Neurosci 16, O4.
 
+**23rd Annual International Conference on Intelligent Systems for Molecular Biology:** **Mancarcı O**, Toker L, Tripathy S and Pavlidis P. A comprehensive database of cell-type specific marker genes for the mammalian brain [v1; not peer reviewed]. F1000Research 2015, 4(ISCB Comm J):428 (poster) (doi: 10.7490/f1000research.1110181.1)
 
+**23rd Annual International Conference on Intelligent Systems for Molecular Biology:** Toker L, **Mancarci O**, Tripathy S and Pavlidis P. A transcriptomics approach for revealing cell-type proportion changes in psychiatric disorders
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
 
 
