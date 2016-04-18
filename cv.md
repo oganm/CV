@@ -25,7 +25,7 @@ Education
 2013-2018 (expected)
 :   **PhD, Bioinformatics**; University of British Columbia (Vancouver, Canada)
 
-    *Thesis title: Identification cell type marker genes of the brain and their use in identification of cell type proportions*
+    *Thesis title: Identification/validation of cell type marker genes of the brain and their use in estimating cell type proportions in brain samples.*
 
 
 2009-2013
@@ -37,29 +37,29 @@ Research Experience
 2014 - present
 :   **PhD Student at UBC Micheal Smith Laboratories** - Supervisor: Dr. Paul Pavlidis
 
-    * Identification of cell type markers and their use in identification of cell type proportions. ([github.com/oganm/brainCellTypeSpecificGenes](https://github.com/oganm/brainCellTypeSpecificGenes))
-    * Development of a web application to visualize gene expression in brain cell types ([neuroexpresso.org](http://neuroexpresso.org/))
+    * Identification/validation of cell type marker genes of the brain and their use in estimating cell type proportions in brain samples ([github.com/oganm/brainCellTypeSpecificGenes](https://github.com/oganm/brainCellTypeSpecificGenes)).
+    * Development of a web application to visualize gene expression in brain cell types ([neuroexpresso.org](http://neuroexpresso.org/)).
 
 
 2013
 :   **Rotation at BC Children's Hospital** - Supervisor: Dr. Wyeth Wasserman
 
-    * Analysis of CAGE data for detection of microRNA transcription start sites
+    * Analysis of CAGE data for detection of microRNA transcription start sites.
 
 2013
 :   **Rotation at Simon Fraser University** - Supervisor: Dr. Fiona Brinkman
 
-    * Analysis of antisense transcription in genomic islands
+    * Analysis of antisense transcription in genomic islands.
 
 2012
 :   **Summer internship at University of Zurich** - Supervisor: Dr. Barbara Tschirren
 
-    * Selective mating of Japanese quails and computational analysis of various properties of quail and tit eggs
+    * Selective mating of Japanese quails and computational analysis of various properties of quail and tit eggs.
 
 2011
 :   **Summer internship at Harvard Medical School** - Supervisor: Dr. George Daley
 
-    * Reprogramming of murine and human cells via viral vectors
+    * Reprogramming of murine and human cells via viral vectors.
 
 
 Teaching Experience
@@ -102,5 +102,5 @@ Onder, T.T., Kara, N., Cherry, A., Sinha, A.U., Zhu, N., Bernt, K.M., Cahan, P.,
 
 Software
 ------------
-**NeuroExpresso:** A web application for visualisation of gene expression data in brain cell types. Available at ([neuroexpresso.org](http://neuroexpresso.org/))
+**NeuroExpresso:** A web application for visualisation of gene expression data in brain cell types. Available at ([neuroexpresso.org](http://neuroexpresso.org/)).
 
