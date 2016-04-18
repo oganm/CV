@@ -76,6 +76,8 @@ Awards and Scholarships
 2013-2014
 : CIHR training program scholarship
 
+2009-2013
+: Bilkent 50% tuition coverage scholarship
 
 Publications
 ------------
