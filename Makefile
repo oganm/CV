@@ -1,18 +1,18 @@
 all: html pdf
 
-pdf: resume.pdf
-resume.pdf: resume.md
+pdf: cv.pdf
+cv.pdf: cv.md
 	pandoc --standalone --template style_chmduquesne.tex \
 	--from markdown --to context \
 	-V papersize=A4 \
-	-o resume.tex resume.md; \
-	context resume.tex
+	-o cv.tex cv.md; \
+	context cv.tex
 
 html: index.html
-index.html: style_chmduquesne.css resume.md
+index.html: style_chmduquesne.css cv.md
 	pandoc --standalone -H style_chmduquesne.css \
         --from markdown --to html \
-        -o index.html resume.md
+        -o index.html cv.md
 
 # docx: resume.docx
 # resume.docx: resume.md
@@ -24,8 +24,8 @@ index.html: style_chmduquesne.css resume.md
 
 clean:
 	rm index.html
-	rm resume.tex
-	rm resume.tuc
-	rm resume.log
-	rm resume.pdf
+	rm cv.tex
+	rm cv.tuc
+	rm cv.log
+	rm cv.pdf
 

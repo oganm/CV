@@ -34,7 +34,7 @@ Education
 Research Experience
 ----------
 
-2014-now
+2014 - present
 :   **PhD Student at UBC Micheal Smith Laboratories** - Supervisor: Dr. Paul Pavlidis
 
     * Identification of cell type markers and their use in identification of cell type proportions. ([github.com/oganm/brainCellTypeSpecificGenes](https://github.com/oganm/brainCellTypeSpecificGenes))
@@ -74,17 +74,10 @@ Teaching Experience
 Awards and Scholarships
 --------------------
 2013-2014
-: CIHR training program scholarship
+: Canadian Institutes of Health Research Training Program Scholarship
 
 2009-2013
-: Bilkent 50% tuition coverage scholarship
-
-Publications
-------------
-<!--zotero cell format -->
-Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
-
-Onder, T.T., Kara, N., Cherry, A., Sinha, A.U., Zhu, N., Bernt, K.M., Cahan, P., **Mancarci, B.O.**, Unternaehrer, J., Gupta, P.B., et al. (2012). Chromatin-modifying enzymes as modulators of reprogramming. Nature 483, 598–602.
+: Bilkent 50% Scholarship
 
 
 Presentations
@@ -96,4 +89,18 @@ Presentations
 **23rd Annual International Conference on Intelligent Systems for Molecular Biology:** Toker L, **Mancarci O**, Tripathy S and Pavlidis P. A transcriptomics approach for revealing cell-type proportion changes in psychiatric disorders
 
 
+Publications
+------------
+<!--zotero cell format -->
+**Preparing for submission** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B.R., Tripathy, S.J., and Pavlidis, P. Identification of cell type marker genes of the brain and their use in estimating cell type proportions.
+
+
+Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
+
+Onder, T.T., Kara, N., Cherry, A., Sinha, A.U., Zhu, N., Bernt, K.M., Cahan, P., **Mancarci, B.O.**, Unternaehrer, J., Gupta, P.B., et al. (2012). Chromatin-modifying enzymes as modulators of reprogramming. Nature 483, 598–602.
+
+
+Software
+------------
+**NeuroExpresso:** A web application for visualisation of gene expression data in brain cell types. Available at ([neuroexpresso.org](http://neuroexpresso.org/))
 
