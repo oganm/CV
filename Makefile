@@ -29,3 +29,11 @@ clean:
 	rm cv.log
 	rm cv.pdf
 
+
+push:
+	git add -u
+	git commit -m "make autopush"
+	git checkout gh-pages
+	git merge master
+	git checkout master
+	git push
