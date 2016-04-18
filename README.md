@@ -1,6 +1,6 @@
 The Markdown Resume
 ===================
-CV of B. Ogan Mancarci. Hosted online at http://oganm.github.io/CV/. Click here for [pdf](https://github.com/oganm/CV/raw/master/resume.pdf).
+CV of B. Ogan Mancarci. Hosted online at http://oganm.github.io/CV/. Click here for [pdf](https://github.com/oganm/CV/raw/master/cv.pdf).
 
 Instructions:
 
