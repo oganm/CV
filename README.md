@@ -10,7 +10,7 @@ Build pdf and html:
 
 Push to github and gh-pages branch
 
-   make push m="commit message"
+    make push m="commit message"
 
 
 Requirements:
