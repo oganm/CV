@@ -32,7 +32,7 @@ clean:
 
 push:
 	git add -u
-	git commit -m "make autocommit"
+	git commit -m "$m"
 	git checkout gh-pages
 	git merge master
 	git checkout master
