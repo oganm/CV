@@ -95,7 +95,7 @@ Presentations
 Publications
 ------------
 <!--zotero cell format -->
-**(Preparing for submission)** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B.R., Tripathy, S.J., and Pavlidis, P. Identification of cell type marker genes of the brain and their use in estimating cell type proportions.
+**(Preparing for submission)** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B.R., Tripathy, S.J., Sibille, E.L., and Pavlidis, P. Identification of cell type marker genes of the brain and their use in estimating cell type proportions.
 
 Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
 
