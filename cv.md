@@ -7,7 +7,7 @@ Vancouver, BC				[github.com/oganm](https://github.com/oganm)
 Canada					Tel: +1 778 995 1591
 -------------------		----------------------------
 
-Skills
+<!--Skills
 ---------
 **Programming languages:** R, Python, Matlab.
 
@@ -18,7 +18,7 @@ Skills
 **Laboratory techniques:** Common techniques and cell culture.
 
 **Languages:** Turkish (Mother Tongue), English (Fluent), French (Basic).
-
+-->
 Education
 ---------
 
@@ -69,10 +69,13 @@ Teaching Experience
 : **Teaching Assitant for Exploratory Data Analysis course (STAT 545A) at UBC** - Instructor: Dr. Jenny Brian
 
 2015
-: **[Instructional Skills Workshop](http://iswnetwork.ca/) at UBC**
+: **Instructional Skills Workshop at UBC** - [iswnetwork.ca](http://iswnetwork.ca)
 
 Awards and Scholarships
 --------------------
+2015
+: 3rd Place in SportsHack hackaton
+
 2013-2014
 : Canadian Institutes of Health Research Training Program Scholarship
 
@@ -93,7 +96,6 @@ Publications
 ------------
 <!--zotero cell format -->
 **(Preparing for submission)** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B.R., Tripathy, S.J., and Pavlidis, P. Identification of cell type marker genes of the brain and their use in estimating cell type proportions.
-
 
 Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
 

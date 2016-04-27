@@ -1,7 +1,7 @@
 all: html pdf
 
 pdf: cv.pdf
-cv.pdf: cv.md
+cv.pdf: cv.md style_chmduquesne.tex
 	pandoc --standalone --template style_chmduquesne.tex \
 	--from markdown --to context \
 	-V papersize=A4 \
