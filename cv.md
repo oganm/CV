@@ -74,7 +74,7 @@ Teaching Experience
 Awards and Scholarships
 --------------------
 2015
-: 3rd Place in SportsHack hackaton
+: 3rd Place in SportsHack hackaton - [sportshackweekend.org](http://sportshackweekend.org/)
 
 2013-2014
 : Canadian Institutes of Health Research Training Program Scholarship
