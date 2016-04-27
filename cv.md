@@ -74,7 +74,7 @@ Teaching Experience
 Awards and Scholarships
 --------------------
 2015
-: 3rd Place in SportsHack hackaton - [sportshackweekend.org](http://sportshackweekend.org/)
+: 3rd Place in SportsHack hackaton - [sportshackweekend.org/ca/2015](http://sportshackweekend.org/ca/2015/)
 
 2013-2014
 : Canadian Institutes of Health Research Training Program Scholarship
@@ -104,5 +104,7 @@ Onder, T.T., Kara, N., Cherry, A., Sinha, A.U., Zhu, N., Bernt, K.M., Cahan, P.,
 
 Software
 ------------
-**NeuroExpresso:** A web application for visualisation of gene expression data in brain cell types. Available at ([neuroexpresso.org](http://neuroexpresso.org/)).
+**NeuroExpresso:** A web application for visualization of gene expression data in brain cell types. Available at [neuroexpresso.org](http://neuroexpresso.org/).
+
+**Impact Replays:** A web application for visualization play-by-play data from football games. Developed for SportsHack hackaton. Available [here](http://daattali.com/shiny/cfl/)
 
