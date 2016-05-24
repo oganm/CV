@@ -97,6 +97,8 @@ Publications
 <!--zotero cell format -->
 **(Preparing for submission)** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B.R., Tripathy, S.J., Sibille, E.L., and Pavlidis, P. Identification of cell type marker genes of the brain and their use in estimating cell type proportions.
 
+**(Preparing for submission)** Tripathy, S.J., **Mancarci, B.O.**, Toker, L., Tebaykin, D., Li, B., Pavlidis, P. Transcriptomic correlates of brain-wide electrophysiological diversity.
+
 Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
 
 Onder, T.T., Kara, N., Cherry, A., Sinha, A.U., Zhu, N., Bernt, K.M., Cahan, P., **Mancarci, B.O.**, Unternaehrer, J., Gupta, P.B., et al. (2012). Chromatin-modifying enzymes as modulators of reprogramming. Nature 483, 598–602.
