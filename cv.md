@@ -64,17 +64,22 @@ Research Experience
 
 Teaching Experience
 ---------------------
+2016
+: **Teaching Assitant for Exploratory Data Analysis course (STAT 545) at UBC** - Instructor: Dr. Jenny Brian
 
 2015
-: **Teaching Assitant for Exploratory Data Analysis course (STAT 545A) at UBC** - Instructor: Dr. Jenny Brian
+: **Teaching Assitant for Exploratory Data Analysis course (STAT 545) at UBC** - Instructor: Dr. Jenny Brian
 
 2015
 : **Instructional Skills Workshop at UBC** - [iswnetwork.ca](http://iswnetwork.ca)
 
 Awards and Scholarships
 --------------------
+2016
+: 1st place in HackSeq hackaton - [hackseq.com](http://www.hackseq.com/) 
+
 2015
-: 3rd Place in SportsHack hackaton - [sportshackweekend.org/ca/2015](http://sportshackweekend.org/ca/2015/)
+: 3rd place in SportsHack hackaton - [sportshackweekend.org/ca/2015](http://sportshackweekend.org/ca/2015/)
 
 2013-2014
 : Canadian Institutes of Health Research Training Program Scholarship
@@ -96,8 +101,9 @@ Publications
 ------------
 <!--zotero cell format -->
 **(Preparing for submission)** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B.R., Tripathy, S.J., Sibille, E.L., and Pavlidis, P. Identification of cell type marker genes of the brain and their use in estimating cell type proportions.
-
+<!--
 **(Preparing for submission)** Tripathy, S.J., **Mancarci, B.O.**, Toker, L., Tebaykin, D., Li, B., Pavlidis, P. Transcriptomic correlates of brain-wide electrophysiological diversity.
+-->
 
 Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
 
@@ -108,5 +114,7 @@ Software
 ------------
 **NeuroExpresso:** A web application for visualization of gene expression data in brain cell types. Available at [neuroexpresso.org](http://neuroexpresso.org/).
 
-**Impact Replays:** A web application for visualization play-by-play data from football games. Developed for SportsHack hackaton. Available [here](http://daattali.com/shiny/cfl/)
+**VASCO:** A web application for visualization of gene expression data from single cell RNA sequencing experiments. Developed for HackSeq hackaton. Available at [oganm.shinyapps.io/2016_project_7](https://oganm.shinyapps.io/2016_project_7/).
+
+**Impact Replays:** A web application for visualization play-by-play data from football games. Developed for SportsHack hackaton. Available at [daattali.com/shiny/cfl](http://daattali.com/shiny/cfl/)
 
