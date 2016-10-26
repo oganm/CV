@@ -114,7 +114,7 @@ Software
 ------------
 **NeuroExpresso:** A web application for visualization of gene expression data in brain cell types. Available at [neuroexpresso.org](http://neuroexpresso.org/).
 
-**VASCO:** A web application for visualization of gene expression data from single cell RNA sequencing experiments. Developed for HackSeq hackaton. Available at [oganm.shinyapps.io/2016_project_7](https://oganm.shinyapps.io/2016_project_7/).
+**VASCO:** A web application for visualization of gene expression data from single cell RNA sequencing experiments. Developed for HackSeq hackaton. Available at [hackseq.github.io/vasco](https://hackseq.github.io/vasco/).
 
 **Impact Replays:** A web application for visualization play-by-play data from football games. Developed for SportsHack hackaton. Available at [daattali.com/shiny/cfl](http://daattali.com/shiny/cfl/)
 
