@@ -100,7 +100,9 @@ Presentations
 Publications
 ------------
 <!--zotero cell format -->
-**(Preparing for submission)** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B.R., Tripathy, S.J., Sibille, E.L., and Pavlidis, P. Identification of cell type marker genes of the brain and their use in estimating cell type proportions.
+**(Submitted)** **Mancarci, B.O.**, Toker, L., Tripathy, S.J., Li, B., Rocco, B.R., Sibille, E.L., and Pavlidis, P. NeuroExpresso: A cross-laboratory database of brain cell-type expression profiles with applications to marker gene identification and bulk brain tissue transcriptome interpretation
+
+
 <!--
 **(Preparing for submission)** Tripathy, S.J., **Mancarci, B.O.**, Toker, L., Tebaykin, D., Li, B., Pavlidis, P. Transcriptomic correlates of brain-wide electrophysiological diversity.
 -->
