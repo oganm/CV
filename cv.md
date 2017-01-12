@@ -90,6 +90,7 @@ Awards and Scholarships
 
 Presentations
 --------------------
+**Society for Neuroscience Annual Meeting 2016:** Toker, L., **Mancarci, B.O.**, Tripathy, S., and Pavlidis, P. (2016). Deciphering the cell-type specific component in the pathophysiology of brain-related disorders.
 
 **Society for Neuroscience Annual Meeting 2016:** Tripathy, S., Tebaykin, D., **Mancarci, O.**, Toker, L., and Pavlidis, P. (2016). Transcriptomic correlates of brain-wide electrophysiological diversity.
 
