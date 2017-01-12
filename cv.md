@@ -90,11 +90,19 @@ Awards and Scholarships
 
 Presentations
 --------------------
+
+**Society for Neuroscience Annual Meeting 2016:** Tripathy, S., Tebaykin, D., **Mancarci, O.**, Toker, L., and Pavlidis, P. (2016). Transcriptomic correlates of brain-wide electrophysiological diversity.
+
+**Society for Neuroscience Annual Meeting 2016:** **Mancarci, O.**, Toker, L., and Pavlidis, P. (2016). Comparison of single cell and pooled cell expression data from mouse and human brain.
+
+**24th Annual International Conference on Intelligent Systems for Molecular Biology:** **Mancarci, O.**, Toker, L., Li, B., Tripathy, S., and Pavlidis, P. (2016). Identification of novel markers for mammalian brain cell types.
+
 **Organization of Computational Neurosciences Conference 2015:** Tripathy, S.J., Tebaykin, D., Li, B., **Mancarci, O.**, Toker, L., and Pavlidis, P. (2015). Large-scale analysis of brain-wide electrophysiological diversity reveals novel characterization of mammalian neuron types. BMC Neurosci 16, O4.
 
-**23rd Annual International Conference on Intelligent Systems for Molecular Biology:** **Mancarcı O**, Toker L, Tripathy S and Pavlidis P. A comprehensive database of cell-type specific marker genes for the mammalian brain [v1; not peer reviewed]. F1000Research 2015, 4(ISCB Comm J):428 (poster) (doi: 10.7490/f1000research.1110181.1)
+**23rd Annual International Conference on Intelligent Systems for Molecular Biology:** **Mancarcı, O.**, Toker, L., Tripathy, S., Pavlidis, P., Mancarcı, O., Toker, L., Tripathy, S., and Pavlidis, P. (2015). A comprehensive database of cell-type specific&nbsp;marker genes for the mammalian brain. F1000Research 4.
 
-**23rd Annual International Conference on Intelligent Systems for Molecular Biology:** Toker L, **Mancarci O**, Tripathy S and Pavlidis P. A transcriptomics approach for revealing cell-type proportion changes in psychiatric disorders
+**23rd Annual International Conference on Intelligent Systems for Molecular Biology:** Toker, L., **Mancarci, O.**, Tripathy, S., and Pavlidis, P. (2015). A transcriptomics approach for revealing cell-type proportion changes in psychiatric disorders.
+
 
 
 Publications
