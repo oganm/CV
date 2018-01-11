@@ -64,6 +64,9 @@ Research Experience
 
 Teaching Experience
 ---------------------
+2017
+: **Teaching Assistant for Statistical Methods for High Dimensional Biology course (STAT 540) at UBC** - Instructors: Sara Mostafavi, Paul Pavlidis
+
 2016
 : **Teaching Assitant for Exploratory Data Analysis course (STAT 545) at UBC** - Instructor: Dr. Jenny Brian
 
