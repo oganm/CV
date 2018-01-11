@@ -113,9 +113,9 @@ Presentations
 Publications
 ------------
 <!--zotero cell format -->
-Mancarci, B.O., Toker, L., Tripathy, S.J., Li, B., Rocco, B., Sibille, E., and Pavlidis, P. (2017). Cross-Laboratory Analysis of Brain Cell Type Transcriptomes with Applications to Interpretation of Bulk Tissue Data. ENeuro 4.
+**Mancarci, B.O.**, Toker, L., Tripathy, S.J., Li, B., Rocco, B., Sibille, E., and Pavlidis, P. (2017). Cross-Laboratory Analysis of Brain Cell Type Transcriptomes with Applications to Interpretation of Bulk Tissue Data. ENeuro 4.
 
-Tripathy, S.J., Toker, L., Li, B., Crichlow, C.-L., Tebaykin, D., Mancarci, B.O., and Pavlidis, P. (2017). Transcriptomic correlates of neuron electrophysiological diversity. PLOS Computational Biology 13, e1005814.
+Tripathy, S.J., Toker, L., Li, B., Crichlow, C.-L., Tebaykin, D., **Mancarci, B.O.**, and Pavlidis, P. (2017). Transcriptomic correlates of neuron electrophysiological diversity. PLOS Computational Biology 13, e1005814.
 
 
 Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
