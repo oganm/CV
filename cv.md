@@ -1,4 +1,4 @@
-B. Ogan Mancarci
+Burak Ogan Mancarci
 ============
 
 -------------------		----------------------------
@@ -90,6 +90,11 @@ Awards and Scholarships
 
 Presentations
 --------------------
+**Society for Neuroscience Annual Meeting 2017:** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B., Tripathy, S., Sibille, E., and Pavlidis, P. NeuroExpresso: A brain cell type specific gene expression database composed of pooled microarray and single cell RNA sequencing data.
+
+
+**25th Annual International Conference on Intelligent Systems for Molecular Biology:** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B., Tripathy, S., Sibille, E., and Pavlidis, P. (2017). NeuroExpresso: Cross laboratory database of brain cell type specific gene expression.
+
 **Society for Neuroscience Annual Meeting 2016:** Toker, L., **Mancarci, B.O.**, Tripathy, S., and Pavlidis, P. (2016). Deciphering the cell-type specific component in the pathophysiology of brain-related disorders.
 
 **Society for Neuroscience Annual Meeting 2016:** Tripathy, S., Tebaykin, D., **Mancarci, O.**, Toker, L., and Pavlidis, P. (2016). Transcriptomic correlates of brain-wide electrophysiological diversity.
@@ -105,16 +110,13 @@ Presentations
 **23rd Annual International Conference on Intelligent Systems for Molecular Biology:** Toker, L., **Mancarci, O.**, Tripathy, S., and Pavlidis, P. (2015). A transcriptomics approach for revealing cell-type proportion changes in psychiatric disorders.
 
 
-
 Publications
 ------------
 <!--zotero cell format -->
-**(Submitted)** **Mancarci, B.O.**, Toker, L., Tripathy, S.J., Li, B., Rocco, B.R., Sibille, E.L., and Pavlidis, P. NeuroExpresso: A cross-laboratory database of brain cell-type expression profiles with applications to marker gene identification and bulk brain tissue transcriptome interpretation
+Mancarci, B.O., Toker, L., Tripathy, S.J., Li, B., Rocco, B., Sibille, E., and Pavlidis, P. (2017). Cross-Laboratory Analysis of Brain Cell Type Transcriptomes with Applications to Interpretation of Bulk Tissue Data. ENeuro 4.
 
+Tripathy, S.J., Toker, L., Li, B., Crichlow, C.-L., Tebaykin, D., Mancarci, B.O., and Pavlidis, P. (2017). Transcriptomic correlates of neuron electrophysiological diversity. PLOS Computational Biology 13, e1005814.
 
-<!--
-**(Preparing for submission)** Tripathy, S.J., **Mancarci, B.O.**, Toker, L., Tebaykin, D., Li, B., Pavlidis, P. Transcriptomic correlates of brain-wide electrophysiological diversity.
--->
 
 Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
 
