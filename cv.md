@@ -37,7 +37,7 @@ Research Experience
 2014 - present
 :   **PhD Student at UBC Micheal Smith Laboratories** - Supervisor: Dr. Paul Pavlidis
 
-    * Identification/validation of cell type marker genes of the brain and their use in estimating cell type proportions in brain samples ([github.com/oganm/brainCellTypeSpecificGenes](https://github.com/oganm/brainCellTypeSpecificGenes)).
+    * Identification/validation of cell type marker genes of the brain and their use in estimating cell type proportions in brain samples ([github.com/PavlidisLab/neuroExpressoAnalysis](https://github.com/PavlidisLab/neuroExpressoAnalysis)).
     * Development of a web application to visualize gene expression in brain cell types ([neuroexpresso.org](http://neuroexpresso.org/)).
 
 
@@ -64,7 +64,7 @@ Research Experience
 
 Teaching Experience
 ---------------------
-2017
+2018
 : **Teaching Assistant for Statistical Methods for High Dimensional Biology course (STAT 540) at UBC** - Instructors: Sara Mostafavi, Paul Pavlidis
 
 2016
@@ -130,7 +130,10 @@ Software
 ------------
 **NeuroExpresso:** A web application for visualization of gene expression data in brain cell types. Available at [neuroexpresso.org](http://neuroexpresso.org/).
 
+**markerGeneProfile:** An R package for calculation of marker gene profiles as described in [Mancarci et al. (2017)](http://www.eneuro.org/content/4/6/ENEURO.0212-17.2017). Available at [github.com/PavlidisLab/markerGeneProfile](https://github.com/PavlidisLab/markerGeneProfile).
+
 **VASCO:** A web application for visualization of gene expression data from single cell RNA sequencing experiments. Developed for HackSeq hackaton. Available at [hackseq.github.io/vasco](https://hackseq.github.io/vasco/).
 
-**Impact Replays:** A web application for visualization play-by-play data from football games. Developed for SportsHack hackaton. Available at [daattali.com/shiny/cfl](http://daattali.com/shiny/cfl/)
+**Impact Replays:** A web application for visualization play-by-play data from football games. Developed for SportsHack hackaton. Available at [daattali.com/shiny/cfl](http://daattali.com/shiny/cfl/).
 
+**Misc. Bioinformatics related R packages:** I have been maintaining various R packages aimed at making life easier for myslef and other bioinformaticians. See [github.com/topics/ogan-bio](https://github.com/topics/ogan-bio) for a full list.
