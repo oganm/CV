@@ -95,7 +95,9 @@ Awards and Scholarships
 Publications
 ------------
 <!--zotero cell format -->
-Tripathy, S., Toker, L., Bomkamp, C., **Mancarci, O.**, Belmadani, M., and Pavlidis, P. (2018). Data-driven approaches for improving the interpretability of patch-seq data. BioRxiv 298133.
+Toker, L., **Mancarci, B.O.**, Tripathy, S., and Pavlidis, P. (2018). Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in bipolar disorder and schizophrenia subjects. Biological Psychiatry.
+
+Tripathy, S., Toker, L., Bomkamp, C., **Mancarci, O.**, Belmadani, M., and Pavlidis, P. (2018). A critical assessment of single-cell transcriptomes sampled following patch-clamp electrophysiology. BioRxiv 298133.
 
 **Mancarci, B.O.**, Toker, L., Tripathy, S.J., Li, B., Rocco, B., Sibille, E., and Pavlidis, P. (2017). Cross-Laboratory Analysis of Brain Cell Type Transcriptomes with Applications to Interpretation of Bulk Tissue Data. ENeuro 4.
 
