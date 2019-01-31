@@ -3,7 +3,7 @@ Burak Ogan Mancarci
 
 -------------------		----------------------------
 2790 W 33rd Ave V6N 2G1			[ogan.mancarci@alumni.ubc.ca](mailto:ogan.mancarci@alumni.ubc.ca)
-Vancouver, BC				[github.com/oganm](https://github.com/oganm)
+Vancouver, BC				[oganm.com](https://oganm.com/)
 Canada					Tel: +1 778 995 1591
 -------------------		----------------------------
 
@@ -95,14 +95,14 @@ Awards and Scholarships
 Publications
 ------------
 <!--zotero cell format -->
-Toker, L., **Mancarci, B.O.**, Tripathy, S., and Pavlidis, P. (2018). Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in bipolar disorder and schizophrenia subjects. Biological Psychiatry.
 
-Tripathy, S., Toker, L., Bomkamp, C., **Mancarci, O.**, Belmadani, M., and Pavlidis, P. (2018). A critical assessment of single-cell transcriptomes sampled following patch-clamp electrophysiology. BioRxiv 298133.
+Tripathy, S.J., Toker, L., Bomkamp, C., **Mancarci, B.O.**, Belmadani, M., and Pavlidis, P. (2018). Assessing Transcriptome Quality in Patch-Seq Datasets. Front. Mol. Neurosci. 11.
+
+Toker, L., **Mancarci, B.O.**, Tripathy, S., and Pavlidis, P. (2018). Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in bipolar disorder and schizophrenia subjects. Biological Psychiatry.
 
 **Mancarci, B.O.**, Toker, L., Tripathy, S.J., Li, B., Rocco, B., Sibille, E., and Pavlidis, P. (2017). Cross-Laboratory Analysis of Brain Cell Type Transcriptomes with Applications to Interpretation of Bulk Tissue Data. ENeuro 4.
 
 Tripathy, S.J., Toker, L., Li, B., Crichlow, C.-L., Tebaykin, D., **Mancarci, B.O.**, and Pavlidis, P. (2017). Transcriptomic correlates of neuron electrophysiological diversity. PLOS Computational Biology 13, e1005814.
-
 
 Horvath, G.A., Demos, M., Shyr, C., Matthews, A., Zhang, L., Race, S., Stockler-Ipsiroglu, S., Van Allen, M.I., **Mancarci, O.**, Toker, L., et al. (2016). Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: A potential treatment target? Mol. Genet. Metab. 117, 42–48.
 
@@ -115,14 +115,17 @@ Software
 
 **markerGeneProfile:** An R package for calculation of marker gene profiles as described in [Mancarci et al. (2017)](http://www.eneuro.org/content/4/6/ENEURO.0212-17.2017). Available at [github.com/PavlidisLab/markerGeneProfile](https://github.com/PavlidisLab/markerGeneProfile).
 
-**VASCO:** A web application for visualization of gene expression data from single cell RNA sequencing experiments. Developed for HackSeq hackaton. Available at [hackseq.github.io/vasco](https://hackseq.github.io/vasco/).
+**VASCO:** A web application for visualization of gene expression data from single cell RNA sequencing experiments. Developed for HackSeq 2016. Available at [hackseq.github.io/vasco](https://hackseq.github.io/vasco/).
+
+**Viral Voyager:** A web application for visualization and analysis of metavirome data collected for the Tara Oceans Project. Developed for HackSeq 2018. Available at [oganm.com/shiny/taracyc](http://oganm.com/shiny/taracyc/).
 
 **Impact Replays:** A web application for visualization play-by-play data from football games. Developed for SportsHack hackaton. Available at [daattali.com/shiny/cfl](http://daattali.com/shiny/cfl/).
 
-**eggstractor:** A GUI based software to automate extraction of shape and pigmentation related information from quail eggs. Developed for 2012 summer internship under Barbara Tschirren. Available at [github.com/oganm/eggstractor](https://github.com/oganm/eggstractor).
+**eggstractor:** Software to automate extraction of shape and pigmentation related information from quail eggs. Developed for 2012 summer internship under Barbara Tschirren. Available at [github.com/oganm/eggstractor](https://github.com/oganm/eggstractor).
 
-**Misc. Bioinformatics related R packages:** I have been maintaining various R packages aimed at making life easier for myslef and other bioinformaticians. See [github.com/topics/ogan-bio](https://github.com/topics/ogan-bio) for a full list.
+**Misc. Bioinformatics related R packages:** I maintain R packages aimed at making life easier for myslef and other bioinformaticians. See [github.com/topics/ogan-bio](https://github.com/topics/ogan-bio) for a full list.
 
+**Misc. D&D related repositories:** I maintain R packages and web applications to be used while playing Dungeon's and Dragons, a popular tabletop roleplaying game. See [github.com/topics/ogan-dnd](https://github.com/topics/ogan-dnd) for a full list.
 
 Presentations
 --------------------
