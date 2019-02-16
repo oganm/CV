@@ -22,7 +22,7 @@ Canada					Tel: +1 778 995 1591
 Education
 ---------
 
-2013-2018 (expected)
+2013-2019 (expected)
 :   **PhD, Bioinformatics**; University of British Columbia (Vancouver, Canada)
 
     *Thesis title: Identification/validation of cell type marker genes of the brain and their use in estimating cell type proportions in brain samples.*
