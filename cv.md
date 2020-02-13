@@ -1,10 +1,11 @@
 Burak Ogan Mancarci
 ============
 
--------------------						----------------------------
-[oganm.com](https://oganm.com/)			[ogan.mancarci@msl.ubc.ca](mailto:ogan.mancarci@msl.ubc.ca)
-										Tel: +1 778 995 1591
--------------------						----------------------------
+--------------------
+Tel: +1 778 995 1591
+[ogan.mancarci@msl.ubc.ca](mailto:ogan.mancarci@msl.ubc.ca)
+[oganm.com](https://oganm.com/)			
+-------------------						
 
 <!--Skills
 ---------
