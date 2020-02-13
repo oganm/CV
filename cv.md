@@ -1,11 +1,10 @@
 Burak Ogan Mancarci
 ============
 
--------------------		----------------------------
-2790 W 33rd Ave V6N 2G1			[ogan.mancarci@alumni.ubc.ca](mailto:ogan.mancarci@alumni.ubc.ca)
-Vancouver, BC				[oganm.com](https://oganm.com/)
-Canada					Tel: +1 778 995 1591
--------------------		----------------------------
+-------------------						----------------------------
+[oganm.com](https://oganm.com/)			[ogan.mancarci@msl.ubc.ca](mailto:ogan.mancarci@msl.ubc.ca)
+										Tel: +1 778 995 1591
+-------------------						----------------------------
 
 <!--Skills
 ---------
