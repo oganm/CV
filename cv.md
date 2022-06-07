@@ -21,11 +21,12 @@ Tel: +1 778 995 1591
 
 **Languages:** Turkish (Mother Tongue), English (Fluent), French (Basic).
 -->
+
 Education
 ---------
 
-2013-2019 (expected)
-:   **PhD, Bioinformatics**; University of British Columbia (Vancouver, Canada)
+2013-2022 (expected)
+:   **MSc, Bioinformatics**; University of British Columbia (Vancouver, Canada)
 
     *Thesis title: Identification/validation of cell type marker genes of the brain and their use in estimating cell type proportions in brain samples.*
 
@@ -37,7 +38,7 @@ Research Experience
 ----------
 
 2014 - present
-:   **PhD Student at UBC Micheal Smith Laboratories** - Supervisor: Dr. Paul Pavlidis
+:   **MSc Student at UBC Micheal Smith Laboratories** - Supervisor: Dr. Paul Pavlidis
 
     * Identification/validation of cell type marker genes of the brain and their use in estimating cell type proportions in brain samples ([github.com/PavlidisLab/neuroExpressoAnalysis](https://github.com/PavlidisLab/neuroExpressoAnalysis)).
     * Development of a web application to visualize gene expression in brain cell types ([neuroexpresso.org](http://neuroexpresso.org/)).
@@ -78,6 +79,7 @@ Teaching Experience
 2015
 : **Instructional Skills Workshop at UBC** - [iswnetwork.ca](http://iswnetwork.ca)
 
+<!--
 Awards and Scholarships
 --------------------
 2016
@@ -91,12 +93,16 @@ Awards and Scholarships
 
 2009-2013
 : Bilkent 50% Scholarship
-
+-->
 
 
 Publications
 ------------
 <!--zotero cell format -->
+
+Lim, N., Tesar, S., Belmadani, M., Poirier-Morency, G., **Mancarci, B.O.**, Sicherman, J., Jacobson, M., Leong, J., Tan, P. and Pavlidis, P. (2021). Curation of over 10 000 transcriptomic studies to enable data reuse. Database, 2021.
+
+Zhuang, B., **Mancarci, B.O.**, Toker, L. and Pavlidis, P. (2019). Mega-analysis of gene expression in mouse models of Alzheimer’s Disease. Eneuro, 6(6).
 
 Tripathy, S.J., Toker, L., Bomkamp, C., **Mancarci, B.O.**, Belmadani, M., and Pavlidis, P. (2018). Assessing Transcriptome Quality in Patch-Seq Datasets. Front. Mol. Neurosci. 11.
 
@@ -129,6 +135,7 @@ Software
 
 **Misc. D&D related repositories:** I maintain R packages and web applications to be used while playing Dungeon's and Dragons, a popular tabletop roleplaying game. See [github.com/topics/ogan-dnd](https://github.com/topics/ogan-dnd) for a full list.
 
+<!--
 Presentations
 --------------------
 **Society for Neuroscience Annual Meeting 2017:** **Mancarci, B.O.**, Toker, L., Li, B., Rocco, B., Tripathy, S., Sibille, E., and Pavlidis, P. NeuroExpresso: A brain cell type specific gene expression database composed of pooled microarray and single cell RNA sequencing data.
@@ -149,5 +156,5 @@ Presentations
 **23rd Annual International Conference on Intelligent Systems for Molecular Biology:** **Mancarcı, O.**, Toker, L., Tripathy, S., Pavlidis, P., Mancarcı, O., Toker, L., Tripathy, S., and Pavlidis, P. (2015). A comprehensive database of cell-type specific&nbsp;marker genes for the mammalian brain. F1000Research 4.
 
 **23rd Annual International Conference on Intelligent Systems for Molecular Biology:** Toker, L., **Mancarci, O.**, Tripathy, S., and Pavlidis, P. (2015). A transcriptomics approach for revealing cell-type proportion changes in psychiatric disorders.
-
+-->
 
