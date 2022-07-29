@@ -25,7 +25,7 @@ Tel: +1 778 995 1591
 Education
 ---------
 
-2013-2022 (expected)
+2013-2022
 :   **MSc, Bioinformatics**; University of British Columbia (Vancouver, Canada)
 
     *Thesis title: Identification/validation of cell type marker genes of the brain and their use in estimating cell type proportions in brain samples.*
@@ -34,10 +34,17 @@ Education
 2009-2013
 :   **BSc, Molecular Biology And Genetics;** Bilkent University (Ankara, Turkey)
 
+
+Work Experience
+----------
+
+2022-Present
+:   **Bioinformatician** - Pavlidis Lab, University of British Columbia
+
 Research Experience
 ----------
 
-2014 - present
+2014 - 2022
 :   **MSc Student at UBC Micheal Smith Laboratories** - Supervisor: Dr. Paul Pavlidis
 
     * Identification/validation of cell type marker genes of the brain and their use in estimating cell type proportions in brain samples ([github.com/PavlidisLab/neuroExpressoAnalysis](https://github.com/PavlidisLab/neuroExpressoAnalysis)).
